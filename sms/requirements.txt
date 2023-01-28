@@ -1,0 +1,15 @@
+telebot
+user_agent
+bs4
+data
+requests
+services
+config
+Service
+soupsieve
+beautifulsoup4
+chardet
+aiohttp
+pyfiglet
+pytelegrambotapi
+colorama
